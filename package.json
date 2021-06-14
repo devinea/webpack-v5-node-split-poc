@@ -1,0 +1,24 @@
+{
+  "name": "webpack-v5-node-split-chunks-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-dist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iPherian/webpack-v5-node-split-chunks-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iPherian/webpack-v5-node-split-chunks-bug/issues"
+  },
+  "homepage": "https://github.com/iPherian/webpack-v5-node-split-chunks-bug#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
